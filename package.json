@@ -48,7 +48,7 @@
     "polvo-js": "0.1.x",
     "polvo-html": "0.1.x",
     "polvo-jade": "0.2.x",
-    "polvo-stylus": "0.1.x",
+    "polvo-stylus": "git+ssh://git@github.com:hi-res/polvo-platonic.git",
     "polvo-css": "0.1.x",
     "humanize": "0.0.x"
   },
